@@ -1,0 +1,19 @@
+{
+  "unit": "hour",
+  "capacity": {
+    "A": 4,
+    "B": 2
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "owner": "A",
+      "amount": 3
+    },
+    {
+      "id": "t2",
+      "owner": "A",
+      "amount": 2
+    }
+  ]
+}
